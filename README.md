@@ -8,9 +8,14 @@ oiie! eu sou o chiquito.
 ## Características:
 
 -★ Curso Técnico de Desenvolvimento de Sistemas.
+
 -★ Atualmente tenho 15 anos.
+
 -★ Estudante do Kennedy
+
 -★ 2° DSB
+
+-★ Prefiro Python.
 
 
                 
