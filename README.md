@@ -17,6 +17,10 @@ oiie! eu sou o chiquito.
 
 -★ Prefiro Python.
 
+<img src="caminho/da/imagem.png" alt="Descrição" width="500" />
+
+## Personalidade
+
 
                 
 
