@@ -1,2 +1,9 @@
-## oiie
-# 𝐂𝐡𝐢𝐪𝐮𝐢𝐭𝐨
+# Chiquito
+oiie! eu sou o chiquito e esse sou eu: 
+
+## Características:
+
+                
+
+
+
