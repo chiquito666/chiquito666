@@ -17,9 +17,16 @@ oiie! eu sou o chiquito.
 
 -★ Prefiro Python sobre todas as coisas.
 
-<img src="caminho/da/imagem.png" alt="Descrição" width="500" />
 
 ## Personalidade
+
+
+-★ Amo chainsawman
+
+-★ Futuro Músico (talvez)
+
+-★ Adoro programar!
+
 
 
                 
