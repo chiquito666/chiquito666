@@ -15,7 +15,7 @@ oiie! eu sou o chiquito.
 
 -★ 2° DSB
 
--★ Prefiro Python.
+-★ Prefiro Python sobre todas as coisas.
 
 <img src="caminho/da/imagem.png" alt="Descrição" width="500" />
 
