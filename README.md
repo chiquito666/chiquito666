@@ -27,6 +27,9 @@ oiie! eu sou o chiquito.
 
 -★ Adoro programar!
 
+<img width="498" height="369" alt="image" src="https://github.com/user-attachments/assets/0a0b56d1-03f7-4911-8317-aca6126ff690" />
+
+
 
 
                 
