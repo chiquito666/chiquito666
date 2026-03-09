@@ -27,7 +27,8 @@ oiie! eu sou o chiquito.
 
 -★ Adoro programar!
 
-<img width="498" height="369" alt="image" src="https://github.com/user-attachments/assets/0a0b56d1-03f7-4911-8317-aca6126ff690" />
+![denji-feeding-pochita-6wv7a8s9wlekil0d](https://github.com/user-attachments/assets/3e8fa8ce-ad78-4431-9b94-6c10b0a3e671)
+
 
 
 
